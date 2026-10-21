@@ -20,3 +20,5 @@ async function mostrarPosts() {
 }
 
 mostrarPosts();
+
+// Tarea completada con éxito
