@@ -41,3 +41,5 @@ lista.innerHTML = "<li>No se pudo cargar la información</li>";
 }
 }
 mostrarUsuarios();
+
+// Ejercicios guiados finalizados
